@@ -28,7 +28,9 @@ Pages publishes from `/docs` on `main`, so `docs/v1/monstera-deliciosa.webp` is 
 - **Served paths are immutable.** A file under `docs/v1/` is never replaced in place — installed apps
   and their image caches rely on it. A regenerated image ships under a new version (`docs/v2/`)
   together with the app release that points at it.
-- **Square only.** Every master is 1:1; nothing here is cropped or padded — the app frames the image.
+- **Square only.** Every master is 1:1 and kept as downloaded; nothing is cropped or padded — the app frames
+  the image. The one exception is in the WebPs: a pot off the set's line (base ≈ 8.4 % from the bottom)
+  is moved onto it by trading rows of flat ground, never a plant pixel.
 - **The ground is `#F4F0E6`**, reset by `tools/catalogue/process` when a master is encoded.
 - **Never `raw.githubusercontent.com`.** It is not a CDN and throttles hot-linking; the app loads from
   Pages only, with the base URL behind a Remote Config key.

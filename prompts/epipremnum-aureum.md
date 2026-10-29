@@ -11,12 +11,14 @@
 ```
 Studio product photograph of a single Golden pothos (Epipremnum aureum) houseplant, a young healthy
 indoor specimen, shot for a plant nursery catalogue. Several trailing vines carrying about 20
-heart-shaped leaves, 6 to 12 cm long, with smooth edges and a pointed tip, on short grooved stalks.
-A few stems stand up from the soil; most spill over the rim and hang down one side of the pot to
-about the pot's own height, so the whole plant stays in frame. The leaves are bright mid-green
-streaked and marbled irregularly with golden yellow, every leaf marked differently, some almost
-plain green. A few small brown aerial-root nubs at the leaf joints. Slight natural asymmetry, leaves
-not all the same size, every leaf healthy and undamaged.
+heart-shaped leaves, 5 to 10 cm long, with smooth edges and a pointed tip, on short grooved stalks.
+A few stems stand up from the soil; the rest arch over the rim and hang down one side of the pot,
+the longest ending level with the pot's base, so the whole plant stays in frame. The leaves are
+bright mid-green streaked and marbled irregularly with golden yellow, every leaf marked differently,
+some almost plain green. A few small brown aerial-root nubs at the leaf joints. The pot is small in
+the frame, exactly the size, shape and position of the straight-sided pot in the reference images,
+about a quarter of the image width; the plant is scaled to fit that pot, not the pot to the plant.
+Slight natural asymmetry, leaves not all the same size, every leaf healthy and undamaged.
 
 Pot: a plain matte unglazed terracotta cylinder pot with natural clay texture, no decoration, no
 saucer, opaque, exterior view only.
